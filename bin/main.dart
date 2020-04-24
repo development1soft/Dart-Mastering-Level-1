@@ -1,7 +1,5 @@
-// import 'package:Dart_Mastering_Level_1/Dart_Mastering_Level_1.dart' as Dart_Mastering_Level_1;
+void main () {
 
-// main(List<String> arguments) {
-//   print('Hello world: ${Dart_Mastering_Level_1.calculate()}!');
-// }
+  print('welcome from dart course');
 
-// edited
+}
