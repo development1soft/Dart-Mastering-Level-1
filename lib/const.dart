@@ -1,3 +1,3 @@
-  const String name = "dart"; // Specific Data Type
+  // const String name = "dart"; // Specific Data Type
 
-  const pi = 3.14; // daynamic
+  // const pi = 3.14; // daynamic
